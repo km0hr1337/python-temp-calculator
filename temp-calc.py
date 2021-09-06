@@ -2,7 +2,7 @@
 
 print("Temperature Calculator")
 print("Use this tool to convert temperature units")
-print("You can convert F* to C* to K* and vice versa")
+print("You can convert F* to C* to K* and vise versa")
 print("==============================================")
 
 # options input
