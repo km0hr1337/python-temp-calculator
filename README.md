@@ -1,2 +1,4 @@
 # python-temp-calculator
-A temperature calculator made in Python
+A temperature calculator made using Python 3.9
+<br>
+yes
