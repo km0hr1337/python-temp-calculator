@@ -1,2 +1,3 @@
 # python-temp-calculator
-A temperature calculator made using Python 3.9
+A temperature calculator made using Python 3.9. You can convert the three main temperature units: Fahrenheit, Celcius, and Kelvin. One unit to another, vise versa.
+I made this temperature calculator because I'm learning Python and did this as a personal project. It's nothing too special, it was just a mini project I decided to do. I had a lot of fun making this calculator, especially when I finished and had the computer converting temperature units for me. If you want to run this script, you can run it in your terminal or console. Feel free to look at the code, and if you're learning python too - you can reference my code if you'd like. Thanks for checking out this random Python project. Lol.
